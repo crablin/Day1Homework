@@ -1,9 +1,0 @@
-Z:\VSProjects\Day1Homework\Day1HomeworkTests\bin\Debug\Day1HomeworkTests.dll
-Z:\VSProjects\Day1Homework\Day1HomeworkTests\bin\Debug\Day1HomeworkTests.pdb
-Z:\VSProjects\Day1Homework\Day1HomeworkTests\bin\Debug\Day1Homework.dll
-Z:\VSProjects\Day1Homework\Day1HomeworkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-Z:\VSProjects\Day1Homework\Day1HomeworkTests\bin\Debug\Day1Homework.pdb
-Z:\VSProjects\Day1Homework\Day1HomeworkTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-Z:\VSProjects\Day1Homework\Day1HomeworkTests\obj\Debug\Day1HomeworkTests.csprojResolveAssemblyReference.cache
-Z:\VSProjects\Day1Homework\Day1HomeworkTests\obj\Debug\Day1HomeworkTests.dll
-Z:\VSProjects\Day1Homework\Day1HomeworkTests\obj\Debug\Day1HomeworkTests.pdb
