@@ -26,7 +26,7 @@ namespace Day1Homework
             {
                 index = counter / groupCount;
 
-                if (result.Count < (index + 1))
+                if (result.Count == index)
                 {
                     result.Add(0);
                 }
