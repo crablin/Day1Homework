@@ -8,7 +8,7 @@ namespace Day1Homework.Tests
     public class CollectionExtensionTests
     {
         [TestMethod()]
-        public void SumByGroupTest_3筆一組取Revenue總合()
+        public void SumByGroupTest_3筆一組取Cost總合()
         {
             var products = GetProducts();
             int groupCount = 3;
